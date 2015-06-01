@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tryDav</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ratings">Sort buses</string>
+    <string name="title_activity_rate_your_travel">Rate Your Travel</string>
+    <string name="cleanliness">How clean is the bus? x/5</string>
+    <string name="luggageHandling">Luggage handling ? x/5</string>
+    <string name="speedOfbus">Speed of the bus? x/5</string>
+    <string name="buscomfort">How comfortable is the bus? x/5</string>
+    <string name="likeagency">Do you like this agency? x/5</string>
+    <string name="image">Thumbnail</string>
+</resources>
